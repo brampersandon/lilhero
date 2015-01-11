@@ -3,7 +3,7 @@
 We've all been there: you're writing a post in your IBoC (Interwebical Browser of Choice™), and then something happens -- it crashes, your battery dies, or something else completely random. lil hero was created to make those situations feel a little less crappy.
 
 ## how to use
-See the home page.
+See the [home page](https://rawgit.com/skylineproject/lilhero/master/index.html).
 
 ## the cool things
 - lil hero currently only works on Tumblr, but will eventually work with any TinyMCE-based text editor. (That means Drupal, Wordpress, Moodle, and others are in the works!)
