@@ -25,7 +25,7 @@ function createHeader(){
   div.style.padding='5px';
   div.style.right='0px';
   h1 = document.createElement('h1');
-  h1.innerHTML="<a href='http://brndn.xyz/lilhero'>&#128124; lil hero</a>"
+  h1.innerHTML="<a href='https://rawgit.com/skylineproject/lilhero/master/index.html'>&#128124; lil hero</a>"
   h1.style.paddingBottom="10px";
   a1 = document.createElement('a');
   a1.href="javascript:save()";
