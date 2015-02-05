@@ -6,7 +6,7 @@ We've all been there: you're writing a post in your IBoC (Interwebical Browser o
 See the [home page](https://rawgit.com/skylineproject/lilhero/master/index.html).
 
 ## the cool things
-- lil hero currently only works on Tumblr, but will eventually work with any TinyMCE-based text editor. (That means Drupal, Wordpress, Moodle, and others are in the works!)
+- lil hero currently works to some degree on **any TinyMCE-based text-editor**. Moodle, Drupal, and Tumblr are particularly tested. If you see problems, screenshot them and open an Issue.
 - After you've told it you'd like to start saving this post as a draft, lil hero will automatically save your text box as a draft every second.
 - lil hero has been tested to work with Firefox, Safari, and Chrome, and uses web standards, so you can use it on practically any computer (it probably even works on IE!). For those of you who like the JavaScript thing, it uses the localStorage API to do its magic.
 ## the less cool things
